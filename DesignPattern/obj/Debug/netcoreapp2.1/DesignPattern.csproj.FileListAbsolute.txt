@@ -1,0 +1,14 @@
+D:\SourceCode\DesignPattern\bin\Debug\netcoreapp2.1\DesignPattern.deps.json
+D:\SourceCode\DesignPattern\bin\Debug\netcoreapp2.1\DesignPattern.runtimeconfig.json
+D:\SourceCode\DesignPattern\bin\Debug\netcoreapp2.1\DesignPattern.runtimeconfig.dev.json
+D:\SourceCode\DesignPattern\bin\Debug\netcoreapp2.1\DesignPattern.dll
+D:\SourceCode\DesignPattern\bin\Debug\netcoreapp2.1\DesignPattern.pdb
+D:\SourceCode\DesignPattern\bin\Debug\netcoreapp2.1\BusinessLogic.dll
+D:\SourceCode\DesignPattern\bin\Debug\netcoreapp2.1\BusinessLogic.pdb
+D:\SourceCode\DesignPattern\obj\Debug\netcoreapp2.1\DesignPattern.csprojAssemblyReference.cache
+D:\SourceCode\DesignPattern\obj\Debug\netcoreapp2.1\DesignPattern.csproj.CoreCompileInputs.cache
+D:\SourceCode\DesignPattern\obj\Debug\netcoreapp2.1\DesignPattern.AssemblyInfoInputs.cache
+D:\SourceCode\DesignPattern\obj\Debug\netcoreapp2.1\DesignPattern.AssemblyInfo.cs
+D:\SourceCode\DesignPattern\obj\Debug\netcoreapp2.1\DesignPattern.csproj.CopyComplete
+D:\SourceCode\DesignPattern\obj\Debug\netcoreapp2.1\DesignPattern.dll
+D:\SourceCode\DesignPattern\obj\Debug\netcoreapp2.1\DesignPattern.pdb
